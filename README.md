@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Oumaima Tiguint. I'm a front end developer and enjoy working with JavaScript and its frameworks.
+My name is Oumaima Tiguint. I'm a front end developer working with JavaScript and its frameworks.
 
 You can check out my [Portfolio](oumaima-tiguint.netlify.app)
 
