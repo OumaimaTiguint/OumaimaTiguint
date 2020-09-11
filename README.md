@@ -2,7 +2,7 @@
 
 My name is Oumaima Tiguint. I'm a front end developer working with JavaScript and its frameworks.
 
-You can check out my [Portfolio](oumaima-tiguint.netlify.app)
+You can check out my [Portfolio](http://oumaima-tiguint.netlify.app)
 
 # Get in touch
 
