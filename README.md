@@ -4,8 +4,6 @@ My name is Oumaima Tiguint. I'm a front end developer working with JavaScript an
 
 You can check out my [Portfolio](http://oumaima-tiguint.netlify.app)
 
-Currently learning: **Python** and **OpenCV**
-
 # Get in touch
 
 * [Twitter](https://twitter.com/OTiguint)
